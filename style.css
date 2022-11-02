@@ -1,0 +1,47 @@
+body {
+  background-image: url(./images/beige-brush-paint-textured-background_53876-123057.webp)
+}
+h1, h2{
+  text-align: center;
+  font-family: 'Splash', cursive;
+  font-size: 100;
+}
+h4 {
+  text-align: center;
+  font-family:'Courier New', Courier, monospace
+  font-size: 100;
+}
+
+img {
+  border-radius: 25%;
+  box-shadow: 0 0 10px;
+  width: 250px;
+  margin: 50px;
+}
+div {
+  padding: 0px;
+  border-radius: 100px;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
+  font-family:'Splash', cursive;
+}
+
+.socials {
+  display: inline;
+  text-align: center;
+}
+
+.socials > a {
+  <i class="fa-brands fa-github"></i>
+}
+
+.info {
+  padding: 5px;
+  text-align: center;
+  width: 60%;
+}
