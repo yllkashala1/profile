@@ -8,7 +8,7 @@ h1, h2{
 }
 h4 {
   text-align: center;
-  font-family:'Courier New', Courier, monospace
+  font-family:'Courier New', Courier, monospace;
   font-size: 100;
 }
 
@@ -34,10 +34,6 @@ p {
 .socials {
   display: inline;
   text-align: center;
-}
-
-.socials > a {
-  <i class="fa-brands fa-github"></i>
 }
 
 .info {
